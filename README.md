@@ -14,6 +14,7 @@ ollama pull llama3.2
 For free web search (up to 1000 requests), [you can use the Tavily API](https://tavily.com/):
 ```bash
 export TAVILY_API_KEY=<your_tavily_api_key>
+export TAVILY_API_KEY=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
 ```
 
 Clone the repository and launch the assistant with the LangGraph server:
